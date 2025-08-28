@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 /**
- * Step definitions for login feature using Selenium and Percy visual testing.
+ * Step definitions for login feature using Selenium and Percy visual testing testing.
  */
 public class LoginSteps {
 
